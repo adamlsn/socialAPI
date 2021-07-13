@@ -66,13 +66,19 @@ module.exports = (
     const year = dateObj.getFullYear();
 
     let hour;
+<<<<<<< HEAD
 
+=======
+>>>>>>> bf05afa93cbac888f07a79a31b45d411f8f4ff3b
     if (dateObj.getHours > 12) {
         hour = Math.floor(dateObj.getHours() / 2);
     } else {
         hour = dateObj.getHours();
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> bf05afa93cbac888f07a79a31b45d411f8f4ff3b
     if (hour === 0) {
         hour = 12;
     }
