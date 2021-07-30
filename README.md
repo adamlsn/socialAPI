@@ -1,6 +1,3 @@
-
-  # React Portfolio
-
   ![screenshot](./screenshots/screenshot.png)
 
   ## Description
